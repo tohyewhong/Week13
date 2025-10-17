@@ -1,0 +1,15 @@
+RAG (Retrieval-Augmented Generation) combines retrieval with generation for better accuracy.
+
+This document explains how RAG systems work:
+
+1. Retrieval: The system searches through a knowledge base to find relevant documents
+2. Augmentation: The retrieved documents are combined with the user's question
+3. Generation: A language model generates an answer based on both the question and retrieved context
+
+Benefits of RAG:
+- More accurate answers by using external knowledge
+- Reduces hallucinations in AI responses
+- Allows for up-to-date information without retraining
+- Provides source citations for transparency
+
+Common applications include question-answering systems, chatbots, and research assistants.

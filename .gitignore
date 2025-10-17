@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+.venv/
+venv/
+ENV/
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+
+outputs/images/
+
+# data
+*.db
+!data/demo.db
+
+logs/
+*.log
+
+.cache/

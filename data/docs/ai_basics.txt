@@ -1,0 +1,18 @@
+Artificial Intelligence Basics
+
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn like humans. AI systems can perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation.
+
+Key Types of AI:
+1. Narrow AI (Weak AI) - Designed for specific tasks
+2. General AI (Strong AI) - Human-level intelligence across all domains
+3. Super AI - Intelligence that surpasses human capabilities
+
+Machine Learning is a subset of AI that focuses on algorithms that can learn and make decisions from data. Deep Learning uses neural networks with multiple layers to process data and recognize patterns.
+
+Common AI Applications:
+- Image and speech recognition
+- Natural language processing
+- Autonomous vehicles
+- Recommendation systems
+- Medical diagnosis
+- Financial trading
